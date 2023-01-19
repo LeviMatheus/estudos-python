@@ -1,0 +1,6 @@
+Rodar flask tutorial
+
+abrir powershell como admin
+Mandar: Set-ExecutionPolicy Unrestricted -Scope Process
+Mandar: ambiente2\Scripts\Activate
+Mandar: code . (para abrir o vscode)
